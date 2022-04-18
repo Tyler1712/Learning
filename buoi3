@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<p align="Center">
+	<img src="https://iweb.tatthanh.com.vn/pic/3/blog/images/logo-sach(29).jpg" width="200" height="200" alt="logo sach">
+	<br>
+	<button> Đăng ký </button>
+	<button> Đăng nhập </button>
+	</p>
+<table width="100%" height="50" bgcolor="gray">
+	<tr>
+		<td width="15%" align="left"> <a href=""> TRANG CHỦ </a> </td>
+		<td width="15%" align="left"> <a href=""> DANH SÁCH </a> </td>
+		<td width="15%" align="left"> <a href=""> THỂ LOẠI </a> </td>
+		<td width="15%" align="left"> <a href=""> DIỄN ĐÀN </a> </td>
+		<td width="50%" align="right"> <input> 
+			<button>
+				<img src="https://cdn-icons-png.flaticon.com/512/61/61088.png" width="13" height="13">
+			</button>
+		</td>
+	</tr>
+</table>
+	<p align="center"> 
+		<img src="https://static.8cache.com/cover/eJwFwce2qjoAANAvynoJRXDwBuAhVGlSM2GBIKGpRIry9XfvkfL_EXSLx7CE07UsuRT9ggIEvebgp2X0nrb8_iRTejcxhIz5olQLVJYLb1A7bKSK6tlb8QN7Ml9C-8VtFyj06aVK7PZhi1-Suaa3Nbg4IG3DCoDd6PZmUY3dhkXcdBN3zSCQsH5u3FWJozqcmbDehMuPR7_YpqapXcNyeF2dRCop8pvpzcKOJ8DThbQ3SOdlkSFq96tym3vSuf7dqpe8akI0lZZ9zkuc57a5vseSlekZwm-O2rZ3AZYegc4DTebIdyHIWMzgGHHbipk-XotQG6ccsV00nhHbp5YTeGat9FaCrdiBkukCiealq6U7aSs5wPw8Jde4pgHv856FFv10uHKr-FO6_wLcbdS0WLq70Xeo02wNdD0nyxrTSJzqxsJx9OJGnOXrp5XuwsFqwsUNEtArzyqrOvEQCYL67qMWrvnwdVKDquoTrieFKMqoufvy5Z2Zr6eoHLK_uPM3e5Z61avOhRPgt2UvYPqw8PGhmvvxyOYxGIbJoPcfHTi2SqLlSEJv3q03BO3mZPLIEV6PfDQ4h3h-q6wT8RQbz5NYjsKlO6mdSDl2XqIiNfi_yYtkM7nrZbHeDpH2VpWImHMJmk8B7RretMPcd9OSHdZ8i0RpCV6C4xsX-0vvxvM5sSIJzOCy1bgek4fsTBDciahuVl_B42HLWHIIipKhMQx54xbt_51DIqA8x_0DavfmXw==/chuyen-tinh-thanh-xuan-cap-ba-cua-toi.jpg">
+		<br>
+		<h3 align="center"> Chuyện Tình Thanh Xuân Cấp 3 Của Tôi </h1>
+	</p>
+	<ul>
+		<li>
+			<a href="https://truyenfull.vn/chuyen-tinh-thanh-xuan-cap-ba-cua-toi/chuong-1/">
+				<h3> Chương 1: Giấc mơ và ngày tựu trường </h3>
+			</a>
+		</li>
+		<li>
+			<a href="https://truyenfull.vn/chuyen-tinh-thanh-xuan-cap-ba-cua-toi/chuong-2/">
+				<h3> Chương 2: Sau Bao Năm, Cuối Cùng Chúng Ta Đã Gặp Lại Nhau </h3>
+			</a>
+		</li>
+		<li>
+			<a href="https://truyenfull.vn/chuyen-tinh-thanh-xuan-cap-ba-cua-toi/chuong-3/">
+				<h3> Chương 3: Ký Ức </h3>
+			</a>
+		</li>
+		<li>
+			<a href="https://truyenfull.vn/chuyen-tinh-thanh-xuan-cap-ba-cua-toi/chuong-4//">
+				<h3> Chương 4: Ngày Cuối Tuần Với Cô Bạn Thuở Nhỏ </h3>
+			</a>
+		</li>
+	</ul>
+	<h1 align="center">
+		<b>
+			<u> 
+				HẾT 
+			</u>
+		</b>
+	</h1>
+	<br>
+	<hr>
+	<table>
+		<tr>
+			<td width="50%" align="left">
+				Truyện Full - Đọc truyện online, đọc truyện chữ, truyện hay. Website luôn cập nhật những bộ truyện mới thuộc các thể loại đặc sắc như truyện tiên hiệp, truyện kiếm hiệp, hay truyện ngôn tình một cách nhanh nhất. Hỗ trợ mọi thiết bị như di động và máy tính bảng.
+			</td>
+			<td width="50%" align="right">
+				Website hoạt động dưới Giấy phép truy cập mở Creative Commons Attribution 4.0 International License
+			</td>
+		</tr>
+	</table>
+	<br>
+	<hr>
+	<p align="Center">
+		<u>
+	Copyright Quyen Lai
+		</u>
+	</p>
+</body>
+</html>
